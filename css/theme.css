@@ -1,0 +1,19 @@
+h1,h2,h3,h4{
+    font-weight: normal;
+}
+header h1{
+    text-align: center;
+    line-height: 7.5rem;
+}
+dialog {
+    max-width: min(calc(100% - 4rem),60rem);
+}
+footer *{
+    text-align: center;
+}
+dialog footer *{
+    text-align: right;
+}
+img{
+    vertical-align: middle;
+}
